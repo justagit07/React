@@ -1,0 +1,1 @@
+const about= 'https://tailus.io/sources/blocks/left-image/preview/images/startup.png'
